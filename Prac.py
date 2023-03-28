@@ -1,0 +1,6 @@
+print ("Average of 3 subject")
+sub1 = int(input ("Enter Grade in English: "))
+sub2 = int(input ("Enter Grade in Math:"))           
+sub3 = int(input ("Enter Grade in Filipino:"))                   
+average= (sub1 + sub2 + sub3)/3))
+print ("the average of 3 subject is",average)
